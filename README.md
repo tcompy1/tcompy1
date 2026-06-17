@@ -7,7 +7,7 @@ Bradenton, FL · [linkedin.com/in/trentcompton1](https://linkedin.com/in/trentco
 
 I build full-stack information systems that take messy, multi-source operational data and make it actionable. My background spans a decade of working directly inside automotive dealerships and operational businesses before transitioning into engineering — so I understand the workflows I'm automating before I write a single line of code.
 
-**B.S. Computer Science — Thomas Edison State University, December 2025**
+**B.A. Computer Science — Thomas Edison State University, March 2026**
 
 ---
 
